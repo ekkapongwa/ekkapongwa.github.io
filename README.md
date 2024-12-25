@@ -1,4 +1,4 @@
 # Ekkapong Warnset
-! [image alt] (https://github.com/eliasz02/ekkapong.github.io/blob/831ca68a6423216aeab8be950aaf53a34c12c652/ekkapong.jpg)
+! [image alt] (https://github.com/eliasz02/ekkapong.github.io/blob/main/ekkapong.jpg?raw=true)
 
 ### ISC WORK
